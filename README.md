@@ -1,4 +1,7 @@
-# ttn_project_final - TEAM 3
+# ttn_project_final
+DevOps Bootcamp Workshop Project- Team 3
+</br>
+</br>
 
 ## 3 tier Application Architecture Set Up on AWS
 
@@ -24,6 +27,12 @@ the project further
 git clone https://github.com/sh-aa-nchal/ttn_project_final.git
 cd ttn_project_final/
 ```
+### Infrastructure Modules
+- [Application Load Balancer](test/modules/alb) </br>
+- [Auto Scaling Group](test/modules/asg) </br>
+- [Database](test/modules/database) </br>
+- [Monitoring](test/modules/monitoring) </br>
+- [Networking](test/modules/network)
 
 ### Initial Project Iteration
 [Project Iteration 1 repository](https://github.com/sh-aa-nchal/ttn_project)
