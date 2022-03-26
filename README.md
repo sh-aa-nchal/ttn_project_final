@@ -27,3 +27,6 @@ cd ttn_project_final/
 
 ### Initial Project Iteration
 [Project Iteration 1 repository](https://github.com/sh-aa-nchal/ttn_project)
+
+### Project Presentation
+[Team 3 project PPT](https://docs.google.com/presentation/d/1YL8o-0TaSrZgJCfJQq-VAOTepqvNcdY7t0O-5J1wKO4/edit?usp=sharing)
