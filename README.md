@@ -9,8 +9,8 @@ DevOps Bootcamp Workshop Project- Team 3
 
 Terraform to provison the complete Infrastructure
 
-## Sample Java Application used in the Project
-[Spring-boot Application] (https://github.com/khoubyari/spring-boot-rest-example)
+### Sample Java Application used in the Project
+[Spring-boot Application](https://github.com/khoubyari/spring-boot-rest-example)
 
 
 ### Pre requisites
