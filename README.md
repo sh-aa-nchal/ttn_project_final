@@ -1,4 +1,4 @@
-# ttn_project_final
+# ttn_project_final - TEAM 3
 
 ## 3 tier Application Architecture Set Up on AWS
 
