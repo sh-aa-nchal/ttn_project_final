@@ -11,9 +11,9 @@ Terraform to provison the complete Infrastructure
 
 
 ### Pre requisites
--> Install aws-cli__
--> Install terraform__
--> aws configure__
+- Install aws-cli <br />
+- Install terraform <br />
+- aws configure
 
 ### Set Up
 
