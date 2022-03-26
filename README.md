@@ -11,9 +11,9 @@ Terraform to provison the complete Infrastructure
 
 
 ### Pre requisites
-Install aws-cli
-Install terraform
-aws configure
+-> Install aws-cli__
+-> Install terraform__
+-> aws configure__
 
 ### Set Up
 
@@ -26,4 +26,4 @@ cd ttn_project_final/
 ```
 
 ### Initial Project Iteration
-[Project Iteration 1 repository] (https://github.com/sh-aa-nchal/ttn_project)
+[Project Iteration 1 repository](https://github.com/sh-aa-nchal/ttn_project)
